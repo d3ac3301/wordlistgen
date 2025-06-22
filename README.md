@@ -2,13 +2,6 @@
 
 # WordList Generator - `WORD-GEN`
 
-### Version: 1.0
-### Author: EvilFeonix  
-### Tool Name: Word-Gen
-### Date: 16 - DECEMBER - 2024  
-### Website: [www.evilfeonix.com](http://www.evilfeonix.com)  
-### Email: evilfeonix@gmail.com  
-
 ---
 
 ## Description
@@ -33,7 +26,7 @@ The creators of this tool are not responsible for any misuse or damage caused by
 ## Installation
  Clone the repository:
    ```bash
-   git clone https://github.com/evilfeonix/Word-Gen.git
+   git clone 
    cd Word-Gen
   ```
 
